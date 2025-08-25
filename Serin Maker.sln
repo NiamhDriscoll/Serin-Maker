@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serin Maker", "Serin Maker.csproj", "{FEC11A68-2C6F-427A-9678-679E7C74D215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC11A68-2C6F-427A-9678-679E7C74D215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC11A68-2C6F-427A-9678-679E7C74D215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC11A68-2C6F-427A-9678-679E7C74D215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC11A68-2C6F-427A-9678-679E7C74D215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33465DF-4A9D-4CD8-BDA7-67F25C71C46B}
+	EndGlobalSection
+EndGlobal
