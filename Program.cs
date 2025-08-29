@@ -3,14 +3,15 @@ using System.Diagnostics;
 using System.IO;
 
 class Smaker {
-    public void Unity() {
-        Process.Start("unity.ps1");
+    public
+    public void Serin() {
+        Process.Start("mkdir " + "");
     }
 
 }
 class Program {
     static void Main(string[] args) {
         Smaker smaker = new Smaker();
-        smaker.Unity();
+        smaker.Serin();
     }
 }
